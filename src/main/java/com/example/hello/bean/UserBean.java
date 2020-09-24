@@ -29,6 +29,7 @@ public class UserBean {
         this.password = password;
     }
 
+    //第二次提交
     @Override
     public String toString() {
         return "User{" +
@@ -36,6 +37,8 @@ public class UserBean {
                 ", name='" + name + '\'' +
                 ", password=" + password +
                 '}';
+
+
     }
 
 }
