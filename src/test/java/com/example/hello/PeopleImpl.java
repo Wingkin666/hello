@@ -14,5 +14,7 @@ public class PeopleImpl {
     }
     private void change(People people){
         people.setAge("46");
+        System.out.println("dev");
     }
+
 }
